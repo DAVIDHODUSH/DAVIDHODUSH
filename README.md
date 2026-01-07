@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm David Hodush
 
-<!--
-**DAVIDHODUSH/DAVIDHODUSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science and Psychology B.Sc. student with practical experience in backend systems and data-focused infrastructure.
 
-Here are some ideas to get you started:
+I work on building clear, reliable systems, with an emphasis on data flow, monitoring, and cost tracking.  
+My background includes work in high-pressure, security-sensitive environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+- Data Engineering (Junior / Entry-Level)
+- Backend systems
+- Data pipelines and analytics
+- Monitoring and cost analysis
+
+## Projects
+- **Personal Finance Analyzer** – Backend system for financial data processing and cost analysis
+
+## Education
+- B.A. in Computer Science and Psychology  
+  Open University of Israel
+
+## Contact
+- Email: dhodush@gmail.com
+- GitHub: https://github.com/DAVIDHODUSH
+- LinkedIn: https://www.linkedin.com/in/david-hodush-a195ba317/
+
